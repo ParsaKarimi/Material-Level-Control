@@ -26,7 +26,7 @@ This project is an Arduino-based system designed to monitor and control the mate
 ## Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/username/repository-name.git  
+   git clone https://github.com/ParsaKarimi/Material-Level-Control.git
    ```  
 2. Open the project folder in PlatformIO.  
 3. Connect your Arduino to the computer.  
